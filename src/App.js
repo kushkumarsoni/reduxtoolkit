@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div className='bg-gray-700 p-5 text-center'>
-        <h5 className="text-3xl font-bold text-white hover:text-green-700">Hi Kush Kumar Soni</h5> 
+        <h5 className="text-3xl font-bold text-white hover:text-green-700">Basic React Redux Toolkit</h5> 
       </div>
       <div className='flex items-center justify-center'>     
         <div className='text-center'>
